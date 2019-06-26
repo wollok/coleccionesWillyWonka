@@ -13,7 +13,7 @@ object willyWonka {
 	method asignarEmpleado(proyecto){
 		var empleadoAsignado 
 		if (empleadosDisponibles.isEmpty()) 
-			error.throwWithMessage("no tengo empleados")
+			self.error("no tengo empleados")
 		empleadoAsignado = empleadosDisponibles.first()
 		proyecto.asignarEmpleado(empleadoAsignado)
 		empleadosDisponibles.remove(empleadoAsignado)		

@@ -2,13 +2,13 @@ import willy.*
 test "Willy contrata a Guillermo, toma proyecto cadbury y luego de tres dias esta terminado" {
 	willyWonka.contratar(guillermoPuertas)
 	willyWonka.tomarProyecto(cadbury)
-	3.times({willyWonka.pasarUnDia()})
+	3.times({i=>willyWonka.pasarUnDia()})
 	assert.that(cadbury.estaTerminado())
 }
 
 test "Willy contrata a esteban, toma proyecto vaporware y luego de mil dias no se termina" {
 	willyWonka.contratar(estebanTrabajos)
 	willyWonka.tomarProyecto(vaporware)
-	1000.times({willyWonka.pasarUnDia()})
+	1000.times({i=>willyWonka.pasarUnDia()})
 	assert.notThat(vaporware.estaTerminado())
 }
