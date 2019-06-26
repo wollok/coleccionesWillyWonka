@@ -70,7 +70,7 @@ object vaporware {
 object verduleria {
 	var diasRestantes = 10
 
-	method asignarEmpleado(empleado){}
+	method asignarEmpleado(empleado){ }
 	method motivarEmpleados(){}
 	
 	method pasarUnDia(){
