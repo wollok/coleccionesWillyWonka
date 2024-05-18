@@ -6,7 +6,7 @@
 ## Colecciones Bloques Polimorfismo Excepciones WCO
 
 **Willy Wonka, aburrido de su fábrica de chocolate y aprovechando el segundo semestre decide reinvertir su tiempo y dinero en empezar una software factory.**
-![Willy](http://nerdist.com/wp-content/uploads/2015/12/Willy-Wonka.png)
+![Willy](https://parade.com/.image/t_share/MTkwNTgwODMyMTMxOTQ5Njkz/willy-wonka-quotes.png)
 
 El ciclo comienza cuando un cliente tiene una idea para un proyecto y va a presentársela a  Willy. Como él está ansioso por crecer, acepta todos los proyectos y asigna un empleado siempre y cuando tenga al menos un Oompa Loompa disponible. (cada uno puede estar asignado a un solo proyecto) En este momento, se le presentaron varios proyectos a Willy Wonka:
 - La empresa Cadbury necesita un sistema de gestión para manejar algunas partes de su producción de chocolate. Se estima que tiene, en total, 5 features  y puede tener un único empleado.
