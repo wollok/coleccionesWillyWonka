@@ -1,6 +1,6 @@
 # Willy Wonka y la fabrica de software
  
-[![Build Status](https://travis-ci.org/wollok/coleccionesWillyWonka.svg?branch=master)](https://travis-ci.org/wollok/coleccionesWillyWonka)
+[![Build Status](https://github.com/wollok/coleccionesWillyWonka/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/coleccionesWillyWonka/actions/workflows/ci.yml)
 
 
 ## Colecciones Bloques Polimorfismo Excepciones WCO
